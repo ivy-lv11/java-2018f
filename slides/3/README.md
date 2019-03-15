@@ -154,8 +154,8 @@ class Human {
 
 }
 Human you;
-Huam me;
-Huamn him, her;
+Human me;
+Human him, her;
 ```
 
 定义类型，声明对象。
